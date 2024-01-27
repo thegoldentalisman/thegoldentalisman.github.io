@@ -1,1 +1,1 @@
-"# thegoldentalisman.github.io" 
+# thegoldentalisman.github.io
